@@ -3,8 +3,8 @@
 It is a simple text snippet api project.
 
 here is an api overview:
-    'Tocken pair':                    '/api/token/',
-    'Tocken Refresh':                 '/api/token/refresh/',
+*    'Tocken pair':                    '/api/token/',
+*   'Tocken Refresh':                 '/api/token/refresh/',
     'User Register':                  '/api/user/register/',
     'User Login':                     '/api/user/login/',
     'User Logout':                    '/api/user/logout/',
